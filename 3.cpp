@@ -101,6 +101,7 @@ pop ebp
 void main() {
 setlocale(LC_ALL, "rus");
     int a, b, c, d, e;
+	double z;
 
 // ¬вод данных
 printf("¬ведите a: ");
